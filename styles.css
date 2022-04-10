@@ -1,0 +1,66 @@
+.card {
+  margin: auto auto;
+  width: 800px;
+  overflow: hidden;
+  border-radius: 15px;
+  color: white;
+  margin-top: 10%;
+}
+.container {
+  width: 250px;
+  height: 450px;
+  float: left;
+}
+.container h1,
+.container p {
+  margin-left: 40px;
+  margin-right: 40px;
+  font-family: sans-serif;
+  line-height: 1.5;
+  padding: 1%;
+}
+.container div {
+  border-radius: 25px;
+  padding: 10px;
+  background-color: white;
+  height: 25px;
+  width: 40%;
+  margin: auto;
+  text-align: center;
+  cursor: pointer;
+}
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+}
+.one div {
+  color: hsl(31, 77%, 52%);
+}
+.two div {
+  color: hsl(184, 100%, 22%);
+}
+.three div {
+  color: hsl(179, 100%, 13%);
+}
+.one {
+  background-color: hsl(31, 77%, 52%);
+}
+.two {
+  background-color: hsl(184, 100%, 22%);
+}
+.three {
+  background-color: hsl(179, 100%, 13%);
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+img {
+  margin-left: 40px;
+  margin-top: 30px;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 10px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
