@@ -28,6 +28,7 @@
   margin: auto;
   text-align: center;
   cursor: pointer;
+  font-family: sans-serif;
 }
 p {
   color: hsla(0, 0%, 100%, 0.75);
